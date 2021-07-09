@@ -1,0 +1,55 @@
+body {
+	background-color: #0b0c10;
+}
+
+h4 {
+	color: #e0e0e0;
+	font-family: "Arial narrow";
+	text-align: left;
+}
+
+.uid {
+	padding: 20px;
+	padding-left: 50px;
+}
+
+.can {
+	padding-top: 40px;
+	padding-left: 0;
+	text-align: left; 
+}
+
+.btn {
+	background-color: #44318d;
+}
+
+.btn:hover {
+	background-color: #382b7c;
+}
+
+.btn:active {
+	background-color: #382b7c;
+}
+
+.btn:focus {
+	background-color: #382b7c;
+}
+
+#defaultCanvas0 {
+	margin: 0;
+}
+
+.start {
+	margin-top: 10px;
+	margin-right: 30px;
+	text-align: left;
+}
+
+#showGeneration {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.first {
+	margin-bottom: 8px;
+}
