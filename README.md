@@ -1,6 +1,6 @@
 # Intelligent snakes
 
-![snake-gif](img\snake.gif)
+![snake-gif](/img/snake.gif)
 
 
 
