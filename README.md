@@ -1,6 +1,6 @@
 # Intelligent snakes
 
-![snake-gif](C:\Users\Sax\Desktop\robe\Progetti\snake\intelligent-snakes\img\snake.gif)
+![snake-gif](img\snake.gif)
 
 
 
