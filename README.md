@@ -12,7 +12,7 @@ I decided to do the project in JavaScript because when I started it I was learni
 
 ## Usage
 
-Open index.html in your browser
+Go to https://simsax.github.io/intelligent-snakes/
 
 ## Credits
 
